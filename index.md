@@ -8,8 +8,6 @@ Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/proje
 
 # Skori - Vezeték Nélküli LED meghajtó - építése / mérése
 
-[VISSZA](https://sandorpeteer.github.io/portfolio/)
-
 [Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
 
 ## Az elkészült áramköreim többféle verzióban is:
