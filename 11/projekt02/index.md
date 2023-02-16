@@ -2,7 +2,6 @@
 
 [VISSZA](https://sandorpeteer.github.io/portfolio/)
 
-[Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
 
 
 
@@ -25,3 +24,7 @@
 |Kondenzátor|C5,C6|470nF|2|
 |Tranzisztor|T1|BC639|1|
 |Dióda|D1|1n4148|1|
+
+### A kapcsolás megépítéséhez Skori rajzát használtuk fel. 
+
+[Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
