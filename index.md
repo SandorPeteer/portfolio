@@ -4,7 +4,7 @@
 
 Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/projekt01). 
 
-<details><summary>Vezeték nélküli LED</summary>
+<details><summary>PROJEKT 02 - Vezeték nélküli LED - </summary>
 
 # Skori - Vezeték Nélküli LED meghajtó - építése / mérése
 
@@ -14,7 +14,7 @@ Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/proje
 
 ## Az elkészült áramköreim többféle verzióban is:
 
-![fenykep](kesz.jpg "Az elkészült kapcsolás")
+![fenykep](/11/projekt02/kesz.jpg "Az elkészült kapcsolás")
 
 ## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
 
