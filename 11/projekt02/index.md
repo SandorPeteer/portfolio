@@ -24,6 +24,10 @@
 |Tranzisztor|T1|BC639|1|
 |Dióda|D1|1n4148|1|
 
+### Alaktrészek kép:
+
+![alkatrész](alkatresz.jpg)
+
 ### A kapcsolás megépítéséhez Skori rajzát használtuk fel. 
 
 [Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
