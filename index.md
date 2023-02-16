@@ -21,3 +21,16 @@ Projekt [01](https://sandorpeteer.github.io/portfolio/12/).
 Projekt [02](https://sandorpeteer.github.io/portfolio/12/).
 
 Projekt [03](https://sandorpeteer.github.io/portfolio/12/).
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
