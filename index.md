@@ -4,7 +4,7 @@
 
 Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/projekt01). 
 
-<details><summary>PROJEKT 02 - Vezeték nélküli LED - </summary>
+<details><summary>PROJEKT 02: Vezeték nélküli LED </summary>
 
 # Skori - Vezeték Nélküli LED meghajtó - építése / mérése
 
