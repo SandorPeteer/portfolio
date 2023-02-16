@@ -4,7 +4,8 @@
 <p>
 ## 11. évfolyamon készített projektek:
 </p>
-Porojekt [01](https://sandorpeteer.github.io/portfolio/11/projekt01/).
+Porojekt 1 [Vezeték nélküli LED meghajtó](https://sandorpeteer.github.io/portfolio/11/projekt01/index.html).
+Porojekt 2 [Vezeték nélküli LED meghajtó](https://sandorpeteer.github.io/portfolio/11/projekt02/vezeteknelkuli_LED.md).
 </details>
 
 <details><summary>12. évfolyam</summary>
@@ -13,15 +14,5 @@ Porojekt [01](https://sandorpeteer.github.io/portfolio/11/projekt01/).
 </p>
 Porojekt [01](https://sandorpeteer.github.io/portfolio/12/projekt01/).
 </details>
-
-
-
-
-|Alkatrész|típus|db|
-|---------|-----|--|
-|Ellenállás| 18k|1 |
-|Tranzisztor|BC639|1|
-
-$\sqrt{3x-1}+(1+x)^2$
 
  
