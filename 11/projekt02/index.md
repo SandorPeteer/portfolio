@@ -5,12 +5,7 @@ Elkészült: 2022.02.10.
 
 [VISSZA](https://sandorpeteer.github.io/portfolio/)
 
-
-
-
 ![kapcsolasirajz](vez_led.gif "kapcsolási rajz")
-
-
 
 ## Az elkészült áramköreim többféle verzióban is:
 
