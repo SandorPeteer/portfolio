@@ -23,6 +23,6 @@ Porojekt [01](https://sandorpeteer.github.io/portfolio/12/projekt01/).
 |Tranzisztor|BC639|1|
 
 
-$\sqrt{3x-1}+(1+x)^2$
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
  
