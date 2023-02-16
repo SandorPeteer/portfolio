@@ -1,4 +1,21 @@
-# A nevem SP
+# Sándor Péter Portfóliója
+
+<details><summary>11. évfolyam</summary>
+<p>
+#### 11. évfolyamon készített projektek:
+Porojekt [01](https://sandorpeteer.github.io/portfolio/11/projekt01/).
+</p>
+</details>
+
+<details><summary>12. évfolyam</summary>
+<p>
+#### 12. évfolyamon készített projektek:
+Porojekt [01](https://sandorpeteer.github.io/portfolio/12/projekt01/).
+</p>
+</details>
+
+
+
 
 |Alkatrész|típus|db|
 |---------|-----|--|
@@ -8,3 +25,4 @@
 
 $\sqrt{3x-1}+(1+x)^2$
 
+ 
