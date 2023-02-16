@@ -6,7 +6,7 @@
 
 
 
-![kapcsolasirajz](http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif "kapcsolási rajz")
+![kapcsolasirajz](vez_led.gif "kapcsolási rajz")
 
 
 
