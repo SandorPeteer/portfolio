@@ -5,3 +5,14 @@
   <source media="(prefers-color-scheme: light)" srcset="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
   <img alt="Vezeték nélküli." src="http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif">
 </picture>
+
+## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
+|Név|Jelölés|Érték|darab|
+|----|----|----|------|
+|Ellenállás|R1|18k|1|
+|Kondenzátor|C1|470pF|1|
+|Kondenzátor|C2|1nF|1|
+|Kondenzátor|C3,C4|4,7nF|2|
+|Kondenzátor|C5,C6|470nF|1|
+|Tranzisztor|T1|BC639|1|
+|Dióda|D1|1n4148|1|
