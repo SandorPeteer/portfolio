@@ -6,6 +6,8 @@
 
 ![kapcsolasirajz](http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif "kapcsolási rajz")
 
+## Az elkészült áramköreim többféle verzióban is:
+
 ![fenykep](kesz.jpg "Az elkészült kapcsolás")
 
 ## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
