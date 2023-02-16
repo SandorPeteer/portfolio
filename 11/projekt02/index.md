@@ -1,5 +1,6 @@
 # Projekt 02 
-Elkészült: 2022.02.10.
+
+> készült: 2022.02.10.
 
 ## Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
 
