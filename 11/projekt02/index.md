@@ -4,7 +4,11 @@
 
 [Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
 
+
+
 ![kapcsolasirajz](http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif "kapcsolási rajz")
+
+
 
 ## Az elkészült áramköreim többféle verzióban is:
 
