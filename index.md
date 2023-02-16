@@ -6,6 +6,8 @@ Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/proje
 
 Projekt 2 [Vezeték nélküli LED meghajtó](https://sandorpeteer.github.io/portfolio/11/projekt02).
  
+![KÉP](http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif "kapcsolási rajz")
+
 
 ## 12. évfolyamon készített projektek:
 
