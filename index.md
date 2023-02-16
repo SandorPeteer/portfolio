@@ -1,3 +1,5 @@
+theme: THEME-NAME
+
 # Sándor Péter Portfóliója
 
 <details><summary>11. évfolyam</summary>
