@@ -4,9 +4,9 @@
 
 [Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
 
-![img](http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif "kapcsolási rajz")
+![kapcsolasirajz](http://skory.gylcomp.hu/kapcs/Wireless-led_2.gif "kapcsolási rajz")
 
-![img](kesz.jpg "Az elkészült kapcsolás")
+![fenykep](kesz.jpg "Az elkészült kapcsolás")
 
 ## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
 
