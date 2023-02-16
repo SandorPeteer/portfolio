@@ -10,10 +10,6 @@ Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/proje
 
 [Forrás](http://skory.gylcomp.hu/kapcs/kapcs.html)
 
-## Az elkészült áramköreim többféle verzióban is:
-
-![fenykep](/11/projekt02/kesz.jpg "Az elkészült kapcsolás")
-
 ## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
 
 |Név|Jelölés|Érték|darab|
@@ -25,6 +21,10 @@ Projekt 1 [Mini Tesla Tekercs](https://sandorpeteer.github.io/portfolio/11/proje
 |Kondenzátor|C5,C6|470nF|2|
 |Tranzisztor|T1|BC639|1|
 |Dióda|D1|1n4148|1|
+
+## Az elkészült áramköreim többféle verzióban is:
+
+![fenykep](/11/projekt02/kesz.jpg "Az elkészült kapcsolás")
 
 </details>
 
