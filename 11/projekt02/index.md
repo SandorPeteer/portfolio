@@ -10,6 +10,7 @@
 
 
 ## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
+
 |Név|Jelölés|Érték|darab|
 |----|----|----|------|
 |Ellenállás|R1|18k|1|
